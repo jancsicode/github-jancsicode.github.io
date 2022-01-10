@@ -1,29 +1,33 @@
-.header{
-  
-}
-img{
-  width: 1000px;
+.kep{
+  width: 70%;
   display: block;
   margin: auto;
   position: relative;
+  margin-bottom: 30px;
+}
+img{
+  width: 100%;
+  display: block;
+  margin: auto;
 }
 h5{
   position: absolute;
-  left: 250px;
-  top: 140px;
+  left: 150px;
+  top: 240px;
   font-size: 30px;
   font-family: 'Abril Fatface';
+  margin: auto;
 }
 h6{
   position: absolute;
-  left: 250px;
-  top: 85px;
+  left: 150px;
+  top: 270px;
   font-size: 60px;
   font-family: 'Abril Fatface';
+  margin: auto;
 }
 div{
-  margin-top: 50px;
-  margin-bottom: 50px;
+
 }
 ul{
 list-style-type: square;
@@ -44,6 +48,8 @@ section{
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
   
 }
 blockquote{
